@@ -47,3 +47,13 @@ Document/
 ├── 5. Project Development Phase
 ├── 6. Performance Testing
 └── 7. Project Documentation
+## 📊 Dashboard Features
+
+- Crop-wise Production Dashboard - Total production, area, and yield for major crops
+- Year-wise Trend Analysis - Production trends from 2010 to 2023
+- State/District-wise Heatmap - Geographical distribution of crop output
+- Seasonal Comparison - Kharif vs Rabi vs Zaid crop performance
+- Rainfall vs Yield Correlation - Impact of rainfall on crop production
+- Top 5 Crops Analysis - Bar chart of highest producing crops
+- Interactive Filters - Filter by Year, Crop, State, Season
+- Tableau Story - Narrative flow from problem statement to insights to recommendations

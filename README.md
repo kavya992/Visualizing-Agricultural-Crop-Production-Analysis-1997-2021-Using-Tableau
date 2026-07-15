@@ -38,3 +38,12 @@ https://drive.google.com/file/d/1ynX-tD7YYtZjfmima_sS43FJ5l1nOZ7j/view?usp=drive
 ---
 
 ## 📁 Project Structure
+Document/
+│
+├── 1. Ideation Phase
+├── 2. Requirement Analysis
+├── 3. Project Design Phase
+├── 4. Project Planning Phase
+├── 5. Project Development Phase
+├── 6. Performance Testing
+└── 7. Project Documentation

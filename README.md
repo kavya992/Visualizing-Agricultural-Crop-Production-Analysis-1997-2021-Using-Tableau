@@ -26,15 +26,14 @@ This project focuses on analyzing India's agricultural crop data using Tableau t
 
 ## 📊 Tableau Dashboard
 Dashboard:
-https://public.tableau.com/views/YOUR_DASHBOARD_LINK
-
+https://public.tableau.com/views/AgriculturalProject_17841293881010/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## 📖 Tableau Story
 Story:
-https://public.tableau.com/shared/YOUR_STORY_LINK
+https://public.tableau.com/views/AgriculturalProject_17841293881010/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🎥 Project Demo
 Watch Demo Video:
-https://drive.google.com/file/d/YOUR_VIDEO_LINK
+https://drive.google.com/file/d/1ynX-tD7YYtZjfmima_sS43FJ5l1nOZ7j/view?usp=drivesdk
 
 ---
 
